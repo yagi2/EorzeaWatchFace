@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EorzeaWatchFace</string>
+    <string name="select_frame_text">Please select watch face frame.</string>
+    <string name="ishgald_frame_text">Ishgald Frame</string>
+    <string name="limsa_frame_text">Limsa Lominsa Frame</string>
+    <string name="gridania_frame_text">Gridania Frame</string>
+    <string name="uldah_frame_text">Ul\'dah Frame</string>
+    <string name="no_frame_text">No Frame</string>
+</resources>

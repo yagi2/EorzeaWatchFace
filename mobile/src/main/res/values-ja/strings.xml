@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EorzeaWatchFace</string>
+    <string name="select_frame_text">Android Wearに表示するフレームを選択してください</string>
+    <string name="gridania_frame_text">グリダニアフレーム</string>
+    <string name="ishgald_frame_text">イシュガルドフレーム</string>
+    <string name="limsa_frame_text">リムサ・ロミンサフレーム</string>
+    <string name="uldah_frame_text">ウルダハフレーム</string>
+    <string name="no_frame_text">フレームなし</string>
+</resources>
